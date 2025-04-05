@@ -1,0 +1,301 @@
+driver_id,driver_name,experience_years,rating
+1,Brittany Palmer,18,3
+2,Eric James,25,3.4
+3,Jocelyn Ward,21,1.2
+4,Frances Morris,12,
+5,Ashley Stevenson,17,1.4
+6,Paul Foster,,3.3
+7,Anthony Moss,15,1.9
+8,Laura Benjamin,7,3.2
+9,Kyle Collins,6,4.5
+10,Kenneth Rodriguez,19,2.7
+11,,7,
+12,,12,2.8
+13,Alyssa King,21,3.4
+14,Maxwell Lewis,29,1.7
+15,Spencer Randolph,1,4.9
+16,Riley Flores,16,3.7
+,Autumn Smith,15,
+18,Destiny Graves,16,
+19,Michael Carpenter,23,1.5
+20,Danielle Martin,18,3.6
+21,Olivia Williams,3,2.3
+22,Anthony Davis,16,4.7
+23,Erica Malone,,3.9
+24,Vanessa Gray,,2.6
+25,Gary Wilson,12,2.8
+,Matthew Martin II,13,4.9
+27,James Grimes,,4.2
+28,Scott Smith,28,1
+29,Andrea Williams,28,4.2
+30,Christopher Hahn,19,4
+31,Annette Alexander,6,4
+32,Gabrielle Wood,16,2.9
+33,Larry Harris,23,1.9
+34,Christine Rivera,10,4.5
+35,,5,4.4
+36,William Little,27,1.1
+37,Paul Weaver,21,3
+38,Michael Ramirez,7,4
+39,,10,4.7
+40,Charlene Munoz,25,2.8
+41,Alice Haynes,24,
+42,Kathy Baird,,3.1
+43,Jeffrey Lindsey,5,3.1
+44,Tracy Flores,27,2
+,Christopher Figueroa,17,1.6
+46,,6,4.6
+47,Cindy Gutierrez,30,3
+48,Melissa Welch,1,4.3
+49,Christopher Estrada,11,2.9
+50,Jason Ayers MD,3,3.4
+51,,14,2
+52,Samantha Snyder,25,2.7
+53,Melissa Miller,14,1
+54,Samuel Jackson,18,1
+55,,,1.7
+,Jessica Berry PhD,12,4.8
+57,Gina Powell,26,4.1
+58,Larry Mora,4,1.8
+59,Kristen Atkinson,2,3.1
+60,Angela Rivera,17,
+61,Bobby Martinez,16,4.9
+62,Heather Wade,25,
+,Morgan Walton,3,1.2
+64,Jennifer Boyle,11,3.3
+65,Sara Lara,12,3.1
+66,William Walker,4,
+,Jason Dawson,,4.9
+68,Michael Beard,,1.3
+69,Tracy Downs,30,2.4
+70,Laura Hammond,8,3.3
+71,Justin Wells,23,4.4
+72,Jason Roberts,3,3.8
+73,Cheryl Davis,10,3.2
+74,Natalie White,15,4.2
+75,Latasha Le,7,1.6
+76,Tamara Archer,,4.7
+77,Robert Black,30,3.9
+78,Jose Fisher,16,3.1
+,Caitlin Thomas,18,3.2
+80,,21,
+81,Phillip Barker,26,
+82,Mark Spears,14,2.8
+83,Joe Lucero,14,3.9
+84,Kristina Holloway,,
+85,Jimmy Wilson,24,1.1
+86,Kelly Robinson,23,4.9
+87,Alan Steele,12,
+88,Terrance Mullins,6,3.9
+89,Jacqueline Holt,14,4.8
+90,Julia Kennedy,,3.9
+91,Crystal Martinez,27,2.9
+92,Courtney Acosta,26,3.7
+93,Robert Hart,2,2.6
+94,,3,
+95,James Mcgrath,11,4.4
+96,Elijah Lopez,16,1.1
+97,David Hernandez,25,2.7
+98,Elizabeth Lara,8,2.3
+99,Miss Michelle Ruiz,14,4
+100,Claire Sanchez,17,
+101,Virginia Myers,7,4
+102,Vincent Murphy,18,4.3
+103,Holly Ferguson,6,4
+104,,8,3.1
+105,Albert Lynch,28,2.2
+106,Jacob Smith,11,4.3
+107,Paula Guerra,5,3.1
+108,,9,2
+109,Nicole Moore,26,2.8
+,Claudia Thornton,2,1.4
+111,Jane Barry,27,2.6
+112,Vincent Brown,,
+113,Shelly Mosley,,4.7
+114,Robert Miller,15,1.7
+115,Thomas Richards,25,4
+116,Connie Bond,14,3.3
+117,Donna Adams,3,3.4
+118,Aaron Bauer,9,2.9
+119,Nicole Acosta,24,4
+120,Robin Jordan,19,3
+121,,24,3.6
+122,Jonathan Butler,14,2.6
+123,John Wiggins,19,3.9
+124,,6,3.5
+125,,29,3
+,Jody Lang,9,1.9
+127,Christopher Gregory,22,2.1
+128,Vincent Farley,14,3.3
+129,Gary Jordan,10,4.1
+130,James Williams,24,
+131,,1,
+132,,23,4.7
+,Amanda Richardson,9,
+134,Julie Glenn,17,3.7
+,,4,4
+136,Juan Thompson,5,2.4
+137,Ryan Faulkner,,2.6
+138,Tina Holmes,24,2.8
+139,Darlene Turner,25,1.2
+140,Nathaniel Murray,13,3.8
+141,Lisa Roth,16,2.4
+142,Kristy Flores,18,4.5
+,Stacey Hickman,6,2.9
+144,Ryan Navarro,13,4.5
+145,Katie Walter,6,3.9
+146,Sheila Strickland,24,1.5
+147,Michael Smith,4,3.4
+148,Jamie Mccullough,16,2.6
+149,Jacob Carlson,17,4.8
+,Brenda Mccann,19,2.4
+151,Clifford Miller,19,
+152,John Ortiz,,
+153,Brian Richardson,10,2.5
+154,Karen Myers,15,5
+155,Lisa Brooks,24,2.6
+156,Phillip Moore,22,2.1
+157,Christopher Clayton,24,
+158,Dawn Hardy,30,3.3
+159,Linda Newman,8,4.2
+160,Sean Ortiz,25,1.7
+161,Linda Lopez MD,19,3.2
+162,,25,2.2
+163,Tyler Phelps,29,3
+164,Ashley Gray,10,2.1
+165,Robert Kline,18,4.1
+166,Michelle Hebert,9,2.3
+167,Jason Horn,,2.7
+168,David Gonzalez,30,3.1
+169,Lisa Allen,5,2.2
+170,Mrs. Diane Stevens,7,1.2
+171,Michael Bell,19,1
+172,Victoria Aguilar,27,3.4
+173,Roy Price,29,4.2
+174,Paul Wu,16,3.1
+175,Jose Nelson,21,1.9
+,Joshua Oliver,11,3.3
+177,Sean Bernard,12,4.6
+178,Matthew White,19,3.9
+,Elizabeth Glover,6,
+180,John Johnson,13,
+181,Mr. Patrick Adams III,12,1.4
+182,Ashley Kirk,,3
+183,Rebecca Flores,,4.5
+184,Whitney Fields,18,4.5
+,Sean Mitchell,10,1.8
+186,Rhonda Maldonado,27,3.7
+,Nicholas Brown,24,1.6
+188,Elizabeth Stout,30,1.4
+189,Karen Turner,14,1.8
+190,,12,2.4
+191,Michael Wilkinson,22,
+192,Amy Garcia,,4.6
+193,Mrs. Lisa Clark,5,4.9
+194,Jeremy Moore,15,4
+195,John Graham,,3.5
+196,Joan Hill,,4.6
+197,Michael Morris,8,2.6
+198,Robert Powell,21,1.9
+199,Allen Robinson,13,4.5
+200,Joseph Wilson,6,4.2
+201,Melissa Martin,5,3.1
+202,Frank Reyes,24,4
+203,,7,2.3
+,Robert Barnett,16,4.4
+205,Susan Mills,,2.1
+206,,13,2.8
+,,8,1.9
+208,Mr. Ryan Cox,15,
+209,Brittany Hayes,3,3.8
+210,Roger Miller,6,2.1
+211,Michael West,25,4.9
+212,,27,2.6
+213,Derek Lloyd,3,3.5
+214,,22,3.8
+215,Gregory Kerr,12,1.3
+216,,7,2.1
+217,Mark Kelly,4,
+,Bryan Floyd,,1.6
+219,Donald Burke,23,2.7
+,Jack Lopez,24,2.7
+221,Mr. Robert Bond,21,4.7
+222,Robin Bates MD,,1.7
+223,Juan Stewart,1,3.7
+224,Heidi Kramer,16,
+225,Alexander Marsh,3,3.8
+226,Nicole Guzman,3,3.5
+227,Megan Hicks,14,3.5
+228,Colleen Russell,16,1.8
+229,James Robinson,10,3.9
+,Cynthia Bonilla,2,1.1
+231,,30,3.9
+232,Michele Hanson,1,
+233,Matthew Drake,23,3.5
+234,Heather Bryant,,3.1
+235,Samantha Gross,26,2.3
+236,Kyle West,11,
+237,Joanne Powell,30,4.7
+238,Dr. Tammy Jones,7,3.5
+239,Mary Watson,24,1.9
+,Jamie Woodward,18,5
+241,Robert Callahan,28,4.8
+242,Jimmy Rogers,,
+243,Stacy Welch,12,2
+,Cassie Morales,23,2.6
+,Tara Banks,25,3.4
+,Lynn Garcia,9,4.7
+247,Angela Taylor,10,4.7
+248,Sheila Hayes,28,3.4
+249,Harold Robinson,,2.4
+250,Ashley Lucas,12,4.1
+251,Mrs. Megan Miller,23,1.5
+252,,8,
+253,Gina Wood,5,2
+254,Christopher Cook,10,2.4
+,Connor Garrett,11,3.7
+256,Anna Wilson,20,4.4
+257,Anthony Alexander,2,4.2
+258,Stephanie Levy,9,
+259,Jamie Sullivan,8,4.1
+260,Patricia Wolfe,23,
+261,John Mcbride,10,1.5
+262,Amanda Stevens,6,3.9
+,Joseph Mccormick,4,2.3
+264,Justin Roberts,,2.6
+265,Jon Watkins,18,3.6
+266,Daniel Reynolds,13,2
+267,,6,4.9
+268,Charles Anderson,19,4.9
+269,Michael Mccormick,14,2.2
+270,Vicki Guerrero,29,2.3
+271,Gregory Meyer,16,4.1
+272,Sarah Bennett,5,1.5
+273,Sara Pham,8,1.2
+274,Gregory Palmer,23,2.9
+275,,,4.1
+276,Carla Krause,17,3.5
+,,23,4.5
+278,Stephanie Mccarthy,30,3.2
+279,Benjamin Russo,17,1
+280,Brandon Reyes,,2.8
+281,,5,4.8
+282,Amanda Andrews,26,
+283,Kelly Smith,8,2.4
+284,Raven Jenkins,18,1.8
+285,Sharon Garrison,6,1.1
+286,Paul Bautista,11,2.3
+287,Zachary Holmes,14,1.2
+288,James Nguyen,16,3.8
+289,David Jones,4,2.5
+,Ashley Haas,18,3.9
+291,Kristen Payne,6,2.2
+292,Jasmine Martin,,2.5
+293,Cynthia Glenn,,3.1
+294,,15,4.1
+295,Kristie Washington,12,4.6
+296,Christine Cobb,7,
+297,,21,3.6
+298,,14,1.8
+,Angela Myers,21,2.5
+,Daniel Soto,8,2.6
