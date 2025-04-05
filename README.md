@@ -1,23 +1,6 @@
 This project processes, transforms, and visualizes transportation and logistics data using PySpark, MySQL, and Power BI following the Medallion Architecture. 
 It generates key insights on delivery efficiency, route optimization, and fleet performance.
-TransLogIQ/
-├── bronze/                 # Raw CSV files converted to Parquet
-├── silver/                 # Cleaned and enriched data
-├── gold/                   # Aggregated tables for analytics
-├── notebooks/              # PySpark notebooks for transformation
-├── sql_scripts/            # SQL scripts for gold layer aggregation
-├── powerbi/                # PBIX dashboard file
-├── docs/                   # Documentation & data dictionary
-└── README.md               # Project guide
-PySpark – Data ingestion and transformation
 
-MySQL – Storage of Silver and Gold layer tables
-
-Power BI – Dashboard creation and KPI reporting
-
-Azure Data Lake (optional) – For storing Parquet files
-
-Git – Version control and collaboration
 
 1. Bronze Layer
 Raw CSV files converted to Parquet format
